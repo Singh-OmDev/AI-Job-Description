@@ -48,6 +48,6 @@ A powerful web application that helps job seekers tailor their resumes to specif
 Create a `.env` file in the `server` directory:
 ```env
 GROQ_API_KEY=your_groq_api_key_here
-JWT_SECRET=your_jwt_secret_key_here
+
 PORT=5000
 ```
